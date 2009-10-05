@@ -1,0 +1,2 @@
+#exportPattern("^[[:alpha:]]+")
+export("getsymbols", "getdata", "performance", "superfluous_filter", "intersection", "stoploss", "superfluous_filter", "atmimacd", "atmimomentum", "atmirsi", "atminaiv", "naivpredict")
